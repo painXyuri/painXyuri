@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @h7x
-- Ethical Hacker X Bug Hunter
+SomeOne
